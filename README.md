@@ -12,6 +12,7 @@ Internship Duration - 1 Month ( October 2021 )
 5. Dataset : http://bit.ly/w-data
 
 # Task 2 : Prediction using Unsupervised ML
-
+Dataset : https://bit.ly/3kXTdox
 
 # Task 6 : Prediction using Desicion Tree Algorithm
+Dataset : https://bit.ly/3kXTdox
